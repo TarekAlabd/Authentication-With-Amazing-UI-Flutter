@@ -32,6 +32,7 @@ You can watch the tutorial on YouTube yo know how to build these screens and to 
 * Flutter
 
 ## Contribtuing 💡
+Don't forget to star the project :star: and fork it to start coding with it.
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
        git clone https://github.com/TarekAlabd/Authentication-With-Amazing-UI-Flutter.git
