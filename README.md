@@ -4,7 +4,7 @@ It's an amazing UI for (Intro, Login &amp; Register) screens. In addition, it ha
 ## Tutorial
 You can watch the tutorial on YouTube yo know how to build these screens and to link them with Firebase Authentication.
 
-[![Flutter Tutorials - Build intro, login & Register screens using Firebase](media/preview-loginapp.jpg)](https://youtu.be/VGfhfRfkxdg)
+[![Flutter Tutorials - Build intro, login & Register screens using Firebase](media/preview-login.jpg)](https://youtu.be/VGfhfRfkxdg)
 
 ## Features :dart:
 * [x] Free & Open Source
