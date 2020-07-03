@@ -14,3 +14,4 @@ It's an amazing UI for (Intro, Login &amp; Register) screens. In addition, it ha
 * [ ] Facebook(Sign-in & sign-up method)
 * [ ] Twitter(Sign-in & sign-up method)
 * [ ] Password Reset
+* [ ] Email Verification
