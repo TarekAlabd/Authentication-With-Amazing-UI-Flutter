@@ -9,3 +9,8 @@ It's an amazing UI for (Intro, Login &amp; Register) screens. In addition, it ha
 * [x] Simple Animation (Hero)
 * [x] Validation
 * [x] Firebase Authentication (Login, Register & Logout)
+* [x] Email & Password(Sign-in & sign-up method)
+* [ ] Google(Sign-in & sign-up method)
+* [ ] Facebook(Sign-in & sign-up method)
+* [ ] Twitter(Sign-in & sign-up method)
+* [ ] Password Reset
