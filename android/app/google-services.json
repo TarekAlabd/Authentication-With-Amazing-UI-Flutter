@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248642571660",
+    "firebase_url": "https://login-test-49dde.firebaseio.com",
+    "project_id": "login-test-49dde",
+    "storage_bucket": "login-test-49dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248642571660:android:e6e96fe6739769e9189aa9",
+        "android_client_info": {
+          "package_name": "com.tarek.login_register_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248642571660-m9jukof15bfmhrdnj822bdk2avlit3qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUzal4XjKhf6hDf4BWStPE9hw13ToDdgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248642571660-m9jukof15bfmhrdnj822bdk2avlit3qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
