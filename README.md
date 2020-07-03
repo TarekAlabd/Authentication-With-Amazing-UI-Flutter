@@ -26,3 +26,7 @@ You can watch the tutorial on YouTube yo know how to build these screens and to 
 ![](media/preview-loginapp.jpg)
 
 ![](media/preview.gif)
+
+## Language & Framework
+* Dart
+* Flutter
