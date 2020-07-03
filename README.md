@@ -42,3 +42,15 @@ You can watch the tutorial on YouTube yo know how to build these screens and to 
 For sure, your pull requests is welcomed. 😃 
 
 ## Running the project with Firebase
+To use this project with Firebase authentication, some configuration steps are required.
+
+- Create a new project with the Firebase console.
+- Add iOS and Android apps in the Firebase project settings.
+- On Android, use `com.tarek.login_register_auth` as the package name.
+- then, [download and copy](https://firebase.google.com/docs/flutter/setup#configure_an_android_app) `google-services.json` into `android/app`.
+- On iOS, use `com.codingwithflutter.firebaseAuthDemo` as the bundle ID.
+- then, [download and copy](https://firebase.google.com/docs/flutter/setup#configure_an_ios_app) `GoogleService-Info.plist` into `iOS/Runner`, and add it to the Runner target in Xcode.
+
+See this document for full instructions:
+
+- [https://firebase.google.com/docs/flutter/setup](https://firebase.google.com/docs/flutter/setup) 
