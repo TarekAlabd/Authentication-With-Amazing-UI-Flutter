@@ -55,3 +55,7 @@ To use this project with Firebase authentication, some configuration steps are r
 See this document for full instructions:
 
 - [https://firebase.google.com/docs/flutter/setup](https://firebase.google.com/docs/flutter/setup) 
+
+## Contact me ☎️ 
+LinkedIn: [Tarek Alabd](https://linkedin.com/in/TarekAlabd)  
+Twitter: [@TarekAlabd](https://twitter.com/TarekAlabd)
