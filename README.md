@@ -35,7 +35,10 @@ You can watch the tutorial on YouTube yo know how to build these screens and to 
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
        git clone https://github.com/TarekAlabd/Authentication-With-Amazing-UI-Flutter.git
-2. Open this project on Android Studio or Visual studio code (or any IDE you use to develop flutter apps).
-3. Run the app on the emulator or simulator.
-4. Edit and add what you want.
+2. Run the project with Firebase (in the next section)
+3. Open this project on Android Studio or Visual studio code (or any IDE you use to develop flutter apps).
+4. Run the app on the emulator or simulator.
+5. Edit and add what you want.
 For sure, your pull requests is welcomed. 😃 
+
+## Running the project with Firebase
