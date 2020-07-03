@@ -15,3 +15,8 @@ It's an amazing UI for (Intro, Login &amp; Register) screens. In addition, it ha
 * [ ] Twitter(Sign-in & sign-up method)
 * [ ] Password Reset
 * [ ] Email Verification
+
+## Preview (Screens & Gif)
+
+![](media/preview-loginapp.jpg)
+
